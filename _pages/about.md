@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 # About
-I am Siyuan Zhu.
 
-My research interests include compiler optimization, runtime system and verification. 
+I am Siyuan Zhu, a first-year Ph.D. student in [Programming Language Lab (PLL)](https://pl.cs.pku.edu.cn/en/) at Peking University, under the supervision of Prof. [Di Wang](https://stonebuddha.github.io/).
 
-Here is my [CV](../files/siyuan_cv_en.pdf)
+My research interests include program analysis & optimization, functional programming, type system, runtime system and formal verification. 
